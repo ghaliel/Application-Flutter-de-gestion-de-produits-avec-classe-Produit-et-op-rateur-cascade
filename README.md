@@ -158,18 +158,9 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 Développé avec ❤️ en Flutter/Dart
 
-## 🤝 Contribution
+## 👨‍💻 Démonstration
 
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Ouvrir une issue pour signaler un bug
-- Proposer de nouvelles fonctionnalités
-- Soumettre une pull request
+<img width="278" height="432" alt="Screenshot 2025-10-21 002606" src="https://github.com/user-attachments/assets/328aa318-ca3f-4c3a-b5d5-0c15e39a9b8b" />
+<img width="1265" height="699" alt="Screenshot 2025-10-21 002524" src="https://github.com/user-attachments/assets/1e9f545c-4058-4492-8be6-b4ba7c99e12c" />
 
-## 📞 Support
 
-Pour toute question ou problème, n'hésitez pas à ouvrir une issue sur GitHub.
-
----
-
-**Version:** 1.0.0  
-**Dernière mise à jour:** Décembre 2024
